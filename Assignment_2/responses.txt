@@ -1,5 +1,5 @@
-Hello My Name is Madeline Sanford 
-
-Today is Tuesday 
-
-My Favoite colors are blue and green. My favotie fruit is pears. 
+ A Directory is a file system catalog to create a structure to reference other computer files. 
+ 
+ VCS is helpful. You can use the share files and work and collaborate on the same set of files. 
+ 
+ My current favorite medium is Clay. 
