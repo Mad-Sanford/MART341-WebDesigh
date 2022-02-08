@@ -1,0 +1,3 @@
+The relationship DNS translates the domain name to IP addresses so browsers can loaded interment.
+A cookies are you to identify your computer network.
+The three essential parts are the Protocol, domain name, and the path. 
