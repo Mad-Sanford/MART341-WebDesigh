@@ -1,0 +1,26 @@
+body{
+  background-color: #FFE4C4;
+  font-family: Didot;
+  Text-align: center;
+
+}
+Div{
+  border: 5px solid ##B0C4DE;
+  display: inline-block;
+}
+img{
+  border-radius: 10px solid
+}
+.inspiration{
+  background-color:#FFE4C4;
+  height: 700px;
+  width: 700px;
+  display: inline-bock;
+}
+#title {
+  font-size: 50px;
+  background-color: #F4A460;
+  color: #B0C4DE;
+  margin:auto;
+  padding: 20px;
+}
