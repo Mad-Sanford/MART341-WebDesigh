@@ -1,0 +1,34 @@
+#header{
+  background-image: url("../images/Crack.jpeg");
+}
+h1{
+  color:#FA8072
+  font-family:; Quicksand
+  fontsize:100px;
+  letter-spacing: 0.3em;
+}
+.titleBorder{
+  hight: 200px;
+  blackground-color: black;
+  color: black;
+}
+#title:hover{
+  letter-spaceing lem;
+color:#FF1493;
+}
+h2:hover{
+  background-color: #FF1493
+  color: #006400
+  text-indent:11em;
+  font-family: Quicksand;
+}
+.subtitle{
+  padding-top: 50px;
+  textiindent: 11em;
+  font-family: Quicksand;
+}
+.subtitle{
+  padding-top: 50px;
+  font-size: 75px;
+  margin: auto;
+}
