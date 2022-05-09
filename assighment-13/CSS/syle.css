@@ -1,6 +1,52 @@
-.header{
-  background-image: url("/images/Crack.jpeg");
+body{
+  background-color: #FFE4C4;
+  font-family: Raleway;
+  Text-align: Center;
+.head2{
+  font-family: Raleway;
+  Text-align: left;
+}
+}
+Div{
+  border: 5px solid ##B0C4DE;
+  display: inline-block;
+}
+img{
+  border-radius: 10px solid
 
-#h1{
+}
+.inspiration{
+  background-color:#FFE4C4;
+  height: 700px;
+  width: 700px;
+  display: inline-bock;
+}
+#title {
+  font-size: 50px;
+  background-color: #F4A460;
+  color: #B0C4DE;
+  margin:auto;
+  padding: 20px;
+}
+.palette{
+  background-color: white;
+}
+.dot{
+  hight: 100px;
+  width: 100px;
+  border-radious: 50%;
+
+}
+.dot.one{
+  background-color:#FFE4C4;
+
+}
+
+.dot.two{
+  background-color:#B0C4DE;
+
+}
+.dot.two{
+  background-color:#F4A460;
 
 }
