@@ -1,52 +1,79 @@
 body{
-  background-color: #FFE4C4;
+  background-color: #FFEBCD;
   font-family: Raleway;
-  Text-align: Center;
-.head2{
+  Text-align: right;
+  border-style: solid;
+  border-width: 50px;
+  border-color:#FFEBCD;
+  color: #2F4F4F;
+}
+H1{
+  text-align: center;
+  textcolor: #708090
+}
+h2{
   font-family: Raleway;
-  Text-align: left;
+  text-align: left;
+  color: #696969
 }
+h3{
+  font-family: Raleway;
+  text-align: left;
+  color: #696969
 }
-Div{
-  border: 5px solid ##B0C4DE;
+p{
+    Text-align: left;
+    color: #696969
+  }
+
+
+.CV{
+  text-align: left;
+  list-style: inside;
+}
+
+.menu-item{
   display: inline-block;
-}
-img{
-  border-radius: 10px solid
-
-}
-.inspiration{
-  background-color:#FFE4C4;
-  height: 700px;
-  width: 700px;
-  display: inline-bock;
-}
-#title {
-  font-size: 50px;
-  background-color: #F4A460;
-  color: #B0C4DE;
-  margin:auto;
-  padding: 20px;
-}
-.palette{
-  background-color: white;
-}
-.dot{
-  hight: 100px;
-  width: 100px;
-  border-radious: 50%;
-
-}
-.dot.one{
-  background-color:#FFE4C4;
-
+  color: blue;
 }
 
-.dot.two{
-  background-color:#B0C4DE;
+a:visited{
+  display: inline-block;
+  color: blue;
+}
+
+.grid-container{
+  display: grid;
+  grid-template-columns: 50% 50%;
+  color:#696969
+}
+
+.contact{
+text-align: left;
+}
+
+@media only screen and (max-width: 768px){
+  .grid-container1{
+    display: grid;
+    grid-template-columns: auto;
+    max-width: 73%;
+    margin: auto;
 
 }
-.dot.two{
-  background-color:#F4A460;
+Div > img{
+  max-width: 100%
+  }
+}
 
+
+@media only screen and (min-width: 768px){
+  .grid-container1{
+    display: grid;
+    grid-template-columns: auto;
+    max-width: 59%;
+    margin: auto;
+  }
+  Div > img{
+    max-width: 100%
+  }
 }
